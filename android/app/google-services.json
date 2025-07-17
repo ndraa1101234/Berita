@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431656219250",
+    "project_id": "beritadb",
+    "storage_bucket": "beritadb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431656219250:android:b3142721f04bc30b5608eb",
+        "android_client_info": {
+          "package_name": "com.example.listview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaSE5kDKbhnB4EARi-xrAcfdkpos99aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431656219250:android:3eafa7d9a534813a5608eb",
+        "android_client_info": {
+          "package_name": "com.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAaSE5kDKbhnB4EARi-xrAcfdkpos99aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
